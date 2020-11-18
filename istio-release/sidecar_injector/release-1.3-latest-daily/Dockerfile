@@ -1,0 +1,2 @@
+FROM gcr.io/istio-release/sidecar_injector:release-1.3-latest-daily
+MAINTAINER guojianwei007@126.com
