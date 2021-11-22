@@ -1,1 +1,1 @@
-FROM cr.io/k8s-staging-cri-tools/test-image-3
+FROM gcr.io/k8s-staging-cri-tools/test-image-3
