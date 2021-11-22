@@ -1,0 +1,1 @@
+FROM gcr.io/k8s-staging-cri-tools/test-image-digest@sha256:9700f9a2f5bf2c45f2f605a0bd3bce7cf37420ec9d3ed50ac2758413308766bf
