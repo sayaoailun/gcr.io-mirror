@@ -1,0 +1,1 @@
+FROM gcr.io/kubernetes-e2e-test-images/nonewprivs@sha256:afee9056f7e21e88ea9617dc2ffe00153c6c45ef6037d8ec12dee0e1f126edcd
